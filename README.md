@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yaodongpo
 - 👀 I’m interested in CS
 - 🌱 I’m currently learning IOT
-- 📫 How to reach me ：dongpouu@gmail.com/+8618569408340
+- 📫 How to reach me ：dongpouu@gmail.com
 
 <!---
 yaodongpo/yaodongpo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
