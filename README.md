@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yaodongpo
 - 👀 I’m interested in CS
-- 🌱 I’m currently learning IOT
 - 📫 How to reach me ：dongpouu@gmail.com
 
 <!---
